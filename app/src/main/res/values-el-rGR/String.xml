@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SpeakFun</string>
+    <string name="welcomeText">καλως ηρθες</string>
+    <string name="speakTitle">μιλώ</string>
+    <string name="buttonBack">πίσω</string>
+    <string name="buttonSend">στείλετε</string>
+    <string name="recordTitle">ηχογραφήστε φωνή</string>
+    <string name="writeTitle">γράφω</string>
+    <string name="leightTitle">φως</string>
+    <string name="WarMesageSpeakToText">Η συσκευή σας δεν υποστηρίζει Ομιλία σε κείμενο</string>
+    <string name="StartSpeaking">Μιλώντας παρακαλώ</string>
+    <string name="TextToSpeechEnterText">Εισαγάγετε κείμενο</string>
+    <string name="TextToSpeechPitch">Πίσσα</string>
+    <string name="TextToSpeechSpeed">Ταχύτητα</string>
+    <string name="TextToSpeechSayIt">ΠΕΣ ΤΟ</string>
+    <string name="LanguageNotSupported">Η γλώσσα δεν υποστηρίζεται</string>
+    <string name="InitializationFailed">Η προετοιμασία απέτυχε</string>
+    <string name="CameraPermissionRequest">Αίτημα άδειας κάμερας</string>
+    <string name="startRecord">Έναρξη εγγραφής</string>
+    <string name="stopRecord">Διακοπή εγγραφής</string>
+    <string name="stopPlay">Σταματήστε το παιχνίδι</string>
+    <string name="startPlay">Ξεκινήστε το παιχνίδι</string>
+    <string name="recordingStarted">η ηχογράφηση ξεκίνησε</string>
+    <string name="recordingStopped">Η εγγραφή σταμάτησε</string>
+    <string name="LightOn">Αναμμένο φως</string>
+    <string name="LightOff">Σβηστό φως</string>
+    <string name="noRecordVoiceMessage">Δεν έχεις δισκογραφική φωνή</string>
+    <string name="flash">Αυτή η συσκευή διαθέτει φλας</string>
+    <string name="NoFlash">Αυτή η συσκευή ΔΕΝ έχει φλας</string>
+    <string name="NoCamera">Αυτή η συσκευή ΔΕΝ διαθέτει κάμερα</string>
+</resources>

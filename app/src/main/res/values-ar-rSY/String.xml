@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SpeakFun</string>
+    <string name="flash">يحتوي هذا الجهاز على فلاش</string>
+    <string name="NoFlash">هذا الجهاز ليس لديه فلاش</string>
+    <string name="NoCamera">هذا الجهاز لا يحتوي على كاميرا</string>
+    <string name="welcomeText">مرحباً</string>
+    <string name="speakTitle">تكلم</string>
+    <string name="buttonSend">ارسل</string>
+    <string name="writeTitle">كتب</string>
+    <string name="recordTitle">سِجِلّ</string>
+    <string name="leightTitle">ضوء</string>
+    <string name="WarMesageSpeakToText">جهازك لا يدعم ميزة تحويل الكلام إلى نص</string>
+    <string name="StartSpeaking">ابدأ بالتحدث</string>
+    <string name="TextToSpeechEnterText">اكتب النص</string>
+    <string name="TextToSpeechSpeed">سرعة</string>
+    <string name="TextToSpeechSayIt">قلها</string>
+    <string name="LanguageNotSupported">اللغة غير مدعومة</string>
+    <string name="InitializationFailed">فشلت التهيئة</string>
+    <string name="CameraPermissionRequest">طلب إذن الكاميرا</string>
+    <string name="startRecord">ابدأ التسجيل</string>
+    <string name="stopRecord">إيقاف التسجيل</string>
+    <string name="startPlay">تشغيل الصوت</string>
+    <string name="stopPlay">إيقاف تشغيل الصوت</string>
+    <string name="recordingStarted">بدأ التسجيل</string>
+    <string name="recordingStopped">توقف التسجيل</string>
+    <string name="LightOn">الضوء يعمل</string>
+    <string name="noRecordVoiceMessage">ليس لديك صوت مسجل</string>
+    <string name="LightOff">الإضائة مطفئة</string>
+    <string name="buttonBack">رجوع</string>
+    <string name="TextToSpeechPitch">نبرة الصوت</string>
+</resources>

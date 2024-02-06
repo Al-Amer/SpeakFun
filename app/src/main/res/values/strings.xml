@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SpeakFun</string>
+    <string name="welcomeText">Welcome</string>
+    <string name="speakTitle">Speak</string>
+    <string name="buttonBack">Back</string>
+    <string name="buttonSend">Send</string>
+    <string name="writeTitle">write</string>
+    <string name="recordTitle">Record</string>
+    <string name="leightTitle">leight</string>
+    <string name="WarMesageSpeakToText">Your device doesn\\\'t support Speech to Text</string>
+    <string name="StartSpeaking">Start Speaking .</string>
+    <string name="TextToSpeechEnterText">Enter Text</string>
+    <string name="TextToSpeechPitch">Pitch</string>
+    <string name="TextToSpeechSpeed">Speed</string>
+    <string name="TextToSpeechSayIt">SAY IT</string>
+    <string name="LanguageNotSupported">Language not supported</string>
+    <string name="InitializationFailed">Initialization failed</string>
+    <string name="CameraPermissionRequest">Camera Permission Request</string>
+    <string name="startRecord">Start Record</string>
+    <string name="stopRecord">Stop Record</string>
+    <string name="startPlay">Start Play</string>
+    <string name="stopPlay">Stop Play</string>
+    <string name="recordingStarted">Recording started</string>
+    <string name="recordingStopped">Recording stopped</string>
+    <string name="LightOn">Light ON</string>
+    <string name="LightOff">Light OFF</string>
+    <string name="noRecordVoiceMessage">You don\\\'t have a record voice</string>
+    <string name="flash">This device has flash</string>
+    <string name="NoFlash">This device has NO flash</string>
+    <string name="NoCamera">This device has Camera</string>
+</resources>

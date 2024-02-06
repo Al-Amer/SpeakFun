@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SpeakFun</string>
+    <string name="welcomeText">Willkommen</string>
+    <string name="speakTitle">Sprechen</string>
+    <string name="buttonBack">Zurück</string>
+    <string name="buttonSend">schicken</string>
+    <string name="writeTitle">Schreiben</string>
+    <string name="leightTitle">leicht</string>
+    <string name="recordTitle">Aufnahmestimme</string>
+    <string name="WarMesageSpeakToText">Ihr Gerät unterstützt Speech to Text nicht</string>
+    <string name="StartSpeaking">sprechen</string>
+    <string name="TextToSpeechEnterText">Text eingeben</string>
+    <string name="TextToSpeechPitch">Tonhöhe</string>
+    <string name="TextToSpeechSpeed">Geschwindigkeit</string>
+    <string name="TextToSpeechSayIt">SAG ES</string>
+    <string name="LanguageNotSupported">Sprache wird nicht unterstützt</string>
+    <string name="InitializationFailed">Initialisierung fehlgeschlagen</string>
+    <string name="CameraPermissionRequest">Anfrage zur Kameragenehmigung</string>
+    <string name="startRecord">Aufnahme starten</string>
+    <string name="stopRecord">Aufzeichnung stoppen</string>
+    <string name="startPlay">Starten Sie die Wiedergabe</string>
+    <string name="stopPlay">Stoppen Sie die Wiedergabe</string>
+    <string name="recordingStarted">Aufnahme gestartet</string>
+    <string name="recordingStopped">Die Aufnahme wurde gestoppt</string>
+    <string name="LightOff">Licht aus</string>
+    <string name="LightOn">Licht an</string>
+    <string name="noRecordVoiceMessage">Du hast keine Aufnahmestimme</string>
+    <string name="flash">Dieses Gerät verfügt über einen Blitz</string>
+    <string name="NoFlash">Dieses Gerät hat KEINEN Blitz</string>
+    <string name="NoCamera">Dieses Gerät verfügt über KEINE Kamera</string>
+</resources>
